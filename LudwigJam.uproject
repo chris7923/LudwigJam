@@ -116,10 +116,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "MediaCompositing",
-			"Enabled": false
-		},
-		{
 			"Name": "ImgMedia",
 			"Enabled": false
 		},
@@ -199,10 +195,6 @@
 			]
 		},
 		{
-			"Name": "MeshPainting",
-			"Enabled": false
-		},
-		{
 			"Name": "MLSDK",
 			"Enabled": false
 		},
@@ -248,18 +240,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "OodleData",
-			"Enabled": false
-		},
-		{
-			"Name": "OodleNetwork",
-			"Enabled": false
-		},
-		{
-			"Name": "TextureFormatOodle",
-			"Enabled": false
-		},
-		{
 			"Name": "OpenXREyeTracker",
 			"Enabled": false,
 			"SupportedTargetPlatforms": [
@@ -280,10 +260,6 @@
 				"Android",
 				"HoloLens"
 			]
-		},
-		{
-			"Name": "PerforceSourceControl",
-			"Enabled": false
 		},
 		{
 			"Name": "PhysXVehicles",
@@ -311,10 +287,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "WindowsMoviePlayer",
-			"Enabled": false
-		},
-		{
 			"Name": "WmfMedia",
 			"Enabled": false
 		},
@@ -324,6 +296,10 @@
 			"SupportedTargetPlatforms": [
 				"Mac"
 			]
+		},
+		{
+			"Name": "WindowsMoviePlayer",
+			"Enabled": false
 		}
 	]
 }
