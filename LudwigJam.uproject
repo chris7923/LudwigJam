@@ -33,17 +33,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "OnlineSubsystemGooglePlay",
-			"Enabled": false,
-			"SupportedTargetPlatforms": [
-				"Android"
-			]
-		},
-		{
-			"Name": "AndroidPermission",
-			"Enabled": false
-		},
-		{
 			"Name": "AnimationSharing",
 			"Enabled": false
 		},
